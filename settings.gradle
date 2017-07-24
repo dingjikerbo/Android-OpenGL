@@ -1,1 +1,1 @@
-include ':app', ':library', ':chapter2', ':chapter4'
+include ':app', ':library', ':chapter2', ':chapter4', ':chapter5'
